@@ -1,0 +1,90 @@
+{
+"commit" : "ae2eb9949ecc9537825ffb647215087c475e61b2",
+"build" : 76480,
+"version" : 118,
+"fonts" : [
+"HelveticaNeue-Medium",
+"HelveticaNeue"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "ae2eb9949ecc9537825ffb647215087c475e61b2",
+"appVersion" : "54",
+"build" : 76480,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 118,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.76480"
+],
+"appVersion" : "54",
+"pagesAndArtboards" : {
+"10758527-A57C-49B9-95F8-60301D3E7A43" : {
+"name" : "Constraints",
+"artboards" : {
+"C822A434-30B4-4C1E-8974-BC432CD616AF" : {
+"name" : "Reference \/ Tappable Area"
+},
+"D73B0521-CAC5-4124-A60F-44650F8A1539" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 6"
+},
+"6D1B2C5E-1AD2-4E9B-9B7E-CDDA77DF07FF" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 4"
+},
+"0021C52B-6620-4082-BE8F-CE0CEA43CB51" : {
+"name" : "Alignment \/ Baseline"
+},
+"13D7975A-185A-420D-BAAC-99983FCD1A1D" : {
+"name" : "Centering \/ Horizontal"
+},
+"A10BF982-01C0-4C50-B7E3-8B748C5749CD" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 2"
+},
+"28697AFF-7FCE-4483-BAB2-638C14B2FCE3" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — ½"
+},
+"217DA187-5C41-45F8-98F1-1EB8CC9C72B0" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 5"
+},
+"C30EBC35-C103-4A97-92B1-EDEE2C07F146" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 1"
+},
+"D8B1E2D1-4538-4A69-8F08-F424DC72A62A" : {
+"name" : "Centering \/ Vertical"
+},
+"C8C71E71-11AE-482D-8D8B-3686E79CC9F2" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 3"
+},
+"13335C15-34CF-4A35-8A3A-6C23401DE44A" : {
+"name" : "Centering \/ Both"
+},
+"E71E22B8-A25C-4289-AC60-A6DE1CE25EEC" : {
+"name" : "Spacers \/ Vertical \/ Vertical — 1"
+},
+"4049B633-D5D7-4C39-A813-5D509C5A94B5" : {
+"name" : "Spacers \/ Vertical \/ Vertical — 2"
+},
+"5E3CF17B-CBDB-4C82-A0F4-BE13966581FC" : {
+"name" : "Spacers \/ Vertical \/ Vertical — 3"
+},
+"FD65D15F-1158-460A-A4F7-11A5BB4FC4FD" : {
+"name" : "Spacers \/ Vertical \/ Vertical — ½"
+},
+"26BE9B0A-76D0-4058-8386-4664CF8CBE55" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 8"
+},
+"C198A794-398E-44F1-A661-515741C23EA3" : {
+"name" : "Spacers \/ Horizontal \/ Horizontal — 7"
+},
+"E70B20DB-A98A-42D7-8AB7-D23E9EFF55D9" : {
+"name" : "Spacers \/ Vertical \/ Vertical — 4"
+}
+}
+}
+}
+}

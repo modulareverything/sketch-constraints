@@ -1,0 +1,406 @@
+{
+"layerStyles" : {
+"objects" : [
+{
+"do_objectID" : "81A31F7F-7742-48FD-AA88-FE27FBF8A673",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.82431402439024393,
+"green" : 0.82431402439024393
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.80000000000000004,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Red"
+},
+{
+"do_objectID" : "B2A30712-09CF-4961-BFE1-4700226D7B01",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.82431402439024393,
+"green" : 0.91818469973243222
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.80000000000000004,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Yellow"
+},
+{
+"do_objectID" : "009B2455-D07C-4C71-94C6-FA82A9A7E4C2",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.82431402439024393,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 0.87338976703079685
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.80000000000000004,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Lt Blue"
+},
+{
+"do_objectID" : "112B821C-20AD-4BAB-A5BC-C860049F7612",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.9167929565908558,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 0.82431402439024393
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.80000000000000004,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Purple"
+},
+{
+"do_objectID" : "15DADF41-9794-4CC5-A77D-D7526B5DCF31",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.82431402439024393,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.93901285571326532,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.80000000000000004,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Teal"
+},
+{
+"do_objectID" : "454E3A90-92EF-4F4C-B4F9-1EDB709AA370",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.87023194983370289,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.82431402439024393,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.80000000000000004,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Green"
+}
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"_class" : "assetCollection",
+"colorAssets" : [
+
+],
+"images" : [
+
+],
+"colors" : [
+
+],
+"gradientAssets" : [
+
+],
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"gradients" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/10758527-A57C-49B9-95F8-60301D3E7A43"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 0,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+{
+"do_objectID" : "EF04C610-F44B-4E9A-9EBE-9932F49D29AC",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "SFUIText-Bold",
+"size" : 20
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Group Title"
+}
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "C2426E60-4602-4B62-8B01-0681F43CCD7B",
+"foreignTextStyles" : [
+
+]
+}
